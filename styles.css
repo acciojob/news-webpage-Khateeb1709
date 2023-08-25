@@ -18,7 +18,7 @@ header{
 	margin: 5px;
 }
 
-.latest-news-articles{
+.latest-news-section{
 	flex: 1;
 	background-color: white;
 	border-radius: 10px;
@@ -42,7 +42,7 @@ header{
 	height: 250px;
 }
 
-.pictorial-news{
+.pictorial-news-section{
 	flex:1;
 	background-color: white;
 	border-radius: 10px;
